@@ -6,7 +6,7 @@
 /*                                   */
 /*************************************/
 
-#ifndef   READ_H
+#ifndef  READ_H
 #define  READ_H
 #include <stdio.h>
 #include <sys/types.h>
