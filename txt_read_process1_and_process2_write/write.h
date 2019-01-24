@@ -6,7 +6,7 @@
 /*                                   */
 /*************************************/
 
-#ifndef   WRITE_H
+#ifndef  WRITE_H
 #define  WRITE_H
 #include <stdio.h>
 #include <sys/types.h>
