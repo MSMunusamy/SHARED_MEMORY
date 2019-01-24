@@ -2,8 +2,8 @@
 /* Author      :Munusamy M           */
 /* Date        :22-01-2019           */
 /* Filename    :receiver_p6.c        */
-/* Description :collect all strings  */
-/*             from p1,p2,p3,p4,p5   */
+/* Description :read a data from     */ 
+/*                11.c file          */
 /*************************************/
 
 #include "read.h"
