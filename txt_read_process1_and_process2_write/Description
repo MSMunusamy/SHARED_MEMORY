@@ -1,0 +1,11 @@
+/*************************************/
+/* Author      :Munusamy M           */
+/* Date        :22-01-2019           */
+/* Filename    :receiver_p6.c        */
+/* Description :collect all strings  */
+/*             from p1,p2,p3,p4,p5   */
+/*************************************/
+
+Description
+            Given program process1(read.c) is read a text file data and create a shared memory  
+	     write in a data process2(write.c)
